@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Hello Devcolibri my change
 Hello first change
@@ -5,3 +6,9 @@ Hello Devcolibri
 qwerty
 
 
+=======
+Hello Devcolibri
+Hello first change!
+Hello Devcolibri my change
+78946
+>>>>>>> dev
